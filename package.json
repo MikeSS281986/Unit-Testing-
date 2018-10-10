@@ -1,0 +1,15 @@
+{
+  "name": "testingpractice",
+  "version": "1.0.0",
+  "description": "Unit Testing practice",
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "Mike Smith",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
